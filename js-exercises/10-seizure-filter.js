@@ -9,4 +9,4 @@ const logs = [
     return logs.filter((log) => log.had_seizure === true)
   }
 
-console.log(seizureLog());
+//console.log(seizureLog());

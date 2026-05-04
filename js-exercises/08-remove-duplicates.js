@@ -14,6 +14,6 @@ function unique(arr){
 }
 
 
-console.log(uniqueSet([1, 2, 2, 3, 3, 3, 4]))
-console.log(unique([1, 2, 2, 3, 3, 3, 4]))
+//console.log(uniqueSet([1, 2, 2, 3, 3, 3, 4]))
+//console.log(unique([1, 2, 2, 3, 3, 3, 4]))
 
