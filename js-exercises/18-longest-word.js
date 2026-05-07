@@ -10,4 +10,4 @@ function longestWord(sentence){
     return word
 }
 
-console.log(longestWord("I am learning JavaScript"))
+//console.log(longestWord("I am learning JavaScript"))
