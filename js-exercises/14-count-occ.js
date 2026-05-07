@@ -22,4 +22,4 @@ function countOccReduce(arr, value){
        },0)
     }
 
-console.log(countOccReduce([1, 2, 2, 3, 2, 4], 2))
+//console.log(countOccReduce([1, 2, 2, 3, 2, 4], 2))
