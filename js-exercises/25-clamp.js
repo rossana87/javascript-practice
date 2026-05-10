@@ -8,4 +8,4 @@ function clamp(n, min, max){
     }
 }
 
-console.log(clamp(5, 0, 10))
+//console.log(clamp(5, 0, 10))
