@@ -25,4 +25,4 @@ function sumDigitsReduce(n){
  return n.toString().split('').reduce((acc, initialVal) => acc + Number(initialVal) ,0)
 }
 
-console.log(sumDigitsReduce(1234))
+//console.log(sumDigitsReduce(1234))
